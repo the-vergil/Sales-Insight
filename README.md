@@ -1,7 +1,7 @@
 # Sales-Insight
 
 ## Problem Statement
-The sales of a given company/firm is declining, we have to find out the reason behind it and to answer some important questions also we have to find insights from the data so that the declining of the sales can be reduced.
+The sales of a given company/firm is declining, we have to create a dashboard to track its progress or regress, answer some important questions also we have to find insights from the data so that the declining of the sales can be reduced.
 
 ## Aim's Grid
 ### Purpose
