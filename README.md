@@ -6,7 +6,7 @@ The sales of a given company/firm is declining, we have to find out the reason b
 ## Aim's Grid
 ### Purpose
   To unlock sales insights that are not visible before for sales team for decision support & automate them to reduce manual time spent over data gathering.
-### Stakehollders
+### Stakeholders
   Data analytics team
 ### End Result
   An automated dashboard providing quick and latest sales insight in order to support data driven decision making.
