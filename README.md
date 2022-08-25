@@ -12,3 +12,6 @@ The sales of a given company/firm is declining, we have to find out the reason b
   An automated dashboard providing quick and latest sales insight in order to support data driven decision making.
 ### Success Criteria
   Dashboard(s) uncovering sales order insights with latest data available
+
+## Dashboard
+![Dashboard](https://github.com/the-vergil/Sales-Insight/blob/main/report%201%20jpg.png)
